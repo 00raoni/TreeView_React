@@ -2,7 +2,7 @@
 
 Camila Nunes
 
-linkedin : https://github.com/CamiNunes
+Git : https://github.com/CamiNunes
 
 # Getting Started with Create React App
 

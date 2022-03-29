@@ -1,6 +1,8 @@
 # Creditos
 
+Camila Nunes
 
+linkedin : https://github.com/CamiNunes
 
 # Getting Started with Create React App
 

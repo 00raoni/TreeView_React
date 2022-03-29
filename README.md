@@ -1,4 +1,4 @@
-# Creditos
+# Crédito
 
 Camila Nunes
 
